@@ -1,12 +1,12 @@
 #!/usr/bin/env sh
-# Presto is a gapless randomizing classical music player written in POSIX shell
+# Presto is a gapless, randomizing, classical music player written in POSIX shell
 #
 # This script is a stripped down version of 'Giocoso' (https://absolutelybaching.com/giocoso/).
 # I just rewrote it in POSIX shell and removed some features I didn't need.
 # All credit goes to Howard Rogers for the original script.
 # Giocoso v2.00 (22nd July 2022) was the one used as the base script.
 #
-# Copyright @ Columndeeply 2023
+# Copyright © Columndeeply 2023
 # Copyright © Howard Rogers 2021,2022
 #
 # Version: 1.0.0 - 2023/02/08
